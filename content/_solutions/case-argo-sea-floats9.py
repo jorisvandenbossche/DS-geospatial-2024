@@ -1,0 +1,1 @@
+argo.plot.scatter(x="temperature", y="level", s=5, hue="lat", edgecolor="None")

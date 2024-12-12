@@ -1,0 +1,1 @@
+counts = gdf['land_use_class'].value_counts()

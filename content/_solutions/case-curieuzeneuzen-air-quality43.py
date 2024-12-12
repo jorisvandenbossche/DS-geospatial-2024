@@ -1,0 +1,1 @@
+subset.groupby("land_use_class")['no2'].mean()

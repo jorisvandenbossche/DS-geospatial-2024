@@ -1,0 +1,1 @@
+districts['population'].plot.hist()  # or .plot(kind="hist")

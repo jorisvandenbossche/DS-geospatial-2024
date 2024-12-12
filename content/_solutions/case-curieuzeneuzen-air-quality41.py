@@ -1,0 +1,1 @@
+frequent_categories = counts.index[counts > 50]
